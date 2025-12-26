@@ -1,5 +1,8 @@
 # Hi there, I'm Vivi! 👋
 
+> **[🌍 Besuche mein interaktives Web-Portfolio](https://viviraffo.github.io/)**
+> *Hier findest du alle meine Web-Projekte, Designs und meinen Werdegang auf einen Blick.*
+
 ### 👩‍💻 About Me
 - 🚀 **Goal:** Aspiring Full Stack Developer.
 - 🔭 I’m currently working on improving my **C#** and **.NET** skills.
