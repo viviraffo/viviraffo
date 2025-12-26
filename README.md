@@ -1,35 +1,39 @@
-# Hi there, I'm Vivi! 👋
+# Hallo, ich bin Vivi! 👋
 
-> **[🌍 Besuche mein interaktives Web-Portfolio](https://viviraffo.github.io/)**
-> *Hier findest du alle meine Web-Projekte, Designs und meinen Werdegang auf einen Blick.*
+**Junior Software Entwicklerin | C# .NET | Frontend Developer**
 
-### 👩‍💻 About Me
-- 🚀 **Goal:** Aspiring Full Stack Developer.
-- 🔭 I’m currently working on improving my **C#** and **.NET** skills.
-- 🌱 I’m also learning **HTML, CSS, JavaScript** and **Python** to build full-scale applications.
-- 📂 More projects and documentation for my web and Python journey are coming soon!
-- ⚡ Fun fact: I love building interactive console games to master logic.
+> [!IMPORTANT]
+> **[🌍 Besuche mein interaktives Web-Portfolio](https://viviraffo.github.io/)** > *Hier findest du alle meine Web-Projekte, Designs und meinen Werdegang live im Browser.*
 
----
+## 👩‍💻 Über mich
 
-### 🚀 Featured Projects
+Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung als Junior Software Entwicklerin** im C#/.NET-Umfeld. Nach meiner Arbeit an Backend-Logik und Konsolenanwendungen habe ich meinen Tech-Stack erfolgreich auf das Frontend ausgeweitet.
 
-| Project | Description | Tech Stack |
+- 💼 **Praxiserfahrung:** 1 Jahr Junior Software Entwicklung (C# / .NET / Visual Studio).
+- 🛠️ **Web-Kompetenz:** Erfolgreiche Umsetzung von 6+ Projekten mit Fokus auf **HTML5, CSS3, Flexbox und Responsive Design**.
+- 🔭 **Aktueller Fokus:** Vertiefung meiner Kenntnisse in **JavaScript** und Einstieg in die Welt von **Python**.
+- 🌱 **Ziel:** Full-Stack-Lösungen entwickeln, die saubere Logik mit herausragender User Experience verbinden.
+
+## 🚀 Ausgewählte Projekte
+
+| Projekt | Beschreibung | Technologie-Stack |
 | :--- | :--- | :--- |
-| [🎮 Mini-Game](https://github.com/viviraffo/Mini-Game) | Interactive console game with state management. | C#, .NET |
-| [🎲 Little-Game](https://github.com/viviraffo/Little-Game) | Logic-based dice challenge with color feedback. | C#, .NET |
+| **🌍 Portfolio** | Mein zentraler Hub mit allen Web-Entwicklungen. | HTML5, CSS3, GitHub Pages |
+| **🎮 Minispiel** | Interaktives Konsolenspiel mit Zustandsverwaltung. | C#, .NET, Visual Studio |
+| **📖 Tech Docs** | Komplexes Dokumentations-Layout mit Sidebar. | HTML5, CSS3 (Fixed Layouts) |
+| **🎲 Dice Game** | Logikbasiertes Spiel mit Farbrückmeldung. | C#, .NET |
+| **🃏 Playing Cards** | UI-Komponenten mit Flexbox & Transformationen. | HTML5, CSS3 |
+
+## 🛠 Fähigkeiten & Werkzeuge
+
+- **Sprachen:** C#, HTML5, CSS3, JavaScript (in Arbeit)
+- **Frameworks & Tools:** .NET, Visual Studio, Git, GitHub
+- **In Planung:** Python 🐍
+
+## 📊 GitHub-Statistiken
+
+![Vivis GitHub Stats](https://github-readme-stats.vercel.app/api?username=viviraffo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviraffo&layout=compact&theme=radical)
 
 ---
-
-### 🛠 Skills & Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 📊 GitHub Stats
-![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviraffo&show_icons=true&theme=radical)
+⚡ **Kurios:** Ich liebe es, Logikrätsel in C# zu lösen, um meine Problemlösungsfähigkeiten für komplexe Anwendungen zu schärfen.
