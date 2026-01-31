@@ -22,7 +22,6 @@ Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung** im C#
 ### 🚀 Ausgewählte Projekte
 
 | Projekt | Beschreibung | Technologie-Stack |
-| :--- | :--- | :--- |
 | 🌦️ **Weather App** | Echtzeit-Wetterdaten über API-Schnittstelle mit asynchroner Logik. | **JavaScript (Async/Fetch)**, HTML5 |
 | 📝 **Markdown Converter** | Live-Editor, der Markdown via RegEx in HTML transformiert. | **JavaScript (RegEx)**, CSS3, HTML5 |
 | 🎮 **C# Minispiel** | Interaktives Konsolenspiel mit komplexer Zustandsverwaltung. | **C#, .NET**, Visual Studio |
@@ -38,8 +37,5 @@ Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung** im C#
 * **In Planung:** Python 🐍
 
 ---
-
-### 📊 GitHub-Statistiken
-[Deine Stats-Grafiken hier]
 
 ⚡ **Kurios:** Ich liebe es, Logikrätsel zu lösen – früher in C#, heute am liebsten, um asynchrone JavaScript-Flows zu optimieren!
