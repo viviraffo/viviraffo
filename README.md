@@ -17,6 +17,7 @@ Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung** im C#
 * 🛠️ **JavaScript-Power:** Sicherer Umgang mit ES6+, Asynchroner Programmierung (Async/Await) und API-Integrationen.
 * 🎨 **Web-Kompetenz:** Fokus auf HTML5, CSS3 (Flexbox/Grid) und Responsive Design.
 * 🌱 **Ziel:** Full-Stack-Lösungen entwickeln, die Performance mit herausragender User Experience vereinen.
+* 🔭 **Aktueller Fokus:** Vertiefung in SQL (Relationale Datenbanken) und professionelle Git-Workflows.
 
 ---
 
