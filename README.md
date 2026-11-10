@@ -1,6 +1,6 @@
 # Hallo, ich bin Vivi! 👋
 
-**Junior Softwareentwicklerin | Full-Stack Aspirantin | C# .NET | Python | Frontend Enthusiast**
+**Junior Softwareentwicklerin | Full-Stack Aspirantin | C# .NET | Python | React | Backend & API Focus**
 
 > [!IMPORTANT]
 > **[🌍 Besuche mein interaktives Web-Portfolio](https://viviraffo.github.io/)**
@@ -10,14 +10,14 @@
 
 ### 👩‍💻 Über mich
 
-Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung** im C#/.NET-Umfeld. Mein Fokus liegt auf der Entwicklung robuster Backends und der Gestaltung moderner, responsiver Frontends. Ich beherrsche den gesamten Weg von der relationalen Datenmodellierung bis hin zur interaktiven User Experience.
+Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung** im C#/.NET-Umfeld. Mein Ziel ist die Entwicklung moderner Full-Stack-Lösungen – von der strukturierten Datenmodellierung im Backend bis hin zu dynamischen Frontend-User-Interfaces.
 
-* 💼 **Praxiserfahrung:** 1 Jahr Junior Software Entwicklung (C# / .NET / Visual Studio).
-* 🗄️ **Datenbank-Profi:** Sicherer Umgang mit PostgreSQL, relationalem Design (Normalisierung), Joins und komplexen Constraints.
-* 🐍 **Python-Expertise:** Fortgeschrittene OOP-Architektur, abstrakte Klassen (ABC) und Vererbung.
-* 🛠️ **JavaScript-Power:** ES6+, asynchrone Programmierung (Async/Await) und API-Schnittstellen.
-* 🌱 **Ziel:** Full-Stack-Lösungen mit **React** entwickeln, die Performance mit Ästhetik vereinen.
-* 🔭 **Aktueller Fokus:** Frontend Libraries (React) & skalierbare Web-Architekturen.
+- 💼 **Praxiserfahrung:** 1 Jahr Junior Software Entwicklung (C# / .NET / Visual Studio).
+- 🎨 **Frontend & UI-Design:** Erstellung moderner, responsiver Web-Interfaces mit **React**, modularem Styling über **Tailwind CSS** & SASS sowie State-Management mit **Redux**.
+- 🗄️ **Datenbank-Profi:** Sicherer Umgang mit PostgreSQL, relationalem Design (Normalisierung), Joins und komplexen Constraints.
+- 🐍 **Python-Expertise:** Fortgeschrittene OOP-Architektur, abstrakte Klassen (ABC) und Vererbung.
+- 🛠️ **JavaScript-Power:** ES6+, asynchrone Programmierung (Async/Await) und Einbindung von REST APIs.
+- 🔭 **Aktueller Fokus:** **Back End Development and APIs Certificate** (Server-Logik, Node.js, Express, MongoDB/PostgreSQL & API-Architektur).
 
 ---
 
@@ -36,11 +36,12 @@ Ich bin eine ambitionierte Entwicklerin mit **einem Jahr Praxiserfahrung** im C#
 
 ### 🛠 Fähigkeiten & Werkzeuge
 
-* **Sprachen:** C#, Python 🐍, JavaScript (ES6+), SQL (PostgreSQL), HTML5, CSS3
-* **Datenbanken:** Relationales Design, Tabellen-Modellierung, SQL-Queries (Joins, Subqueries)
-* **Frameworks & Tools:** .NET, REST APIs, Git, GitHub, Linux/Bash
-* **Aktueller Fokus:** **React** & moderne Frontend-Ökosysteme ⚛️
+- **Sprachen:** C#, Python 🐍, JavaScript (ES6+), HTML5, CSS3/SASS, SQL (PostgreSQL)
+- **Frontend & UI:** React ⚛️, Tailwind CSS 🎨, Bootstrap, Redux, jQuery
+- **Datenbanken:** Relationales Design, Tabellen-Modellierung, SQL-Queries (Joins, Subqueries)
+- **Frameworks & Tools:** .NET, REST APIs, Git, GitHub, Linux/Bash
+- **Aktueller Fokus:** **Back End Development & APIs** (Server-Logik, Node.js/Express, RESTful Interfaces) 🚀
 
 ---
 
-⚡ **Kurios:** Ich liebe es, komplexe Logikrätsel zu lösen – egal ob ich Datenbank-Schemata normalisiere oder asynchrone JavaScript-Flows optimiere!
+⚡ **Kurios:** Ich liebe es, komplexe Logikrätsel zu lösen – egal ob ich Datenbank-Schemata normalisiere, React-Komponenten baue oder asynchrone API-Flows optimiere!
